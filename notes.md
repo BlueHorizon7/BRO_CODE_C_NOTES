@@ -63,3 +63,4 @@
 - You need to write `#include <stdbool.h>` at the top of line in C.
 - bool means boolean.
 - bool(boolean) are binary they either true or false. 0 means false and 1 means true
+ ---
