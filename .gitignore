@@ -1,0 +1,26 @@
+# Ignore compiled binaries and object files
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.dylib
+
+# Ignore the Variables/output directory completely
+Variables/output/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor and OS specific files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
